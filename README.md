@@ -15,6 +15,7 @@ Practice project for learning Playwright test automation with TypeScript.
 - Assertions
 - TypeScript
 
+<<<<<<< HEAD
 ## Setup
 
 ### Environment Variables
@@ -29,6 +30,8 @@ PASSWORD=your-password
 
 See `.env.example` for a template.
 
+=======
+>>>>>>> 3a3f6de (Add API tests (Ping, DELETE, PUT, PATCH, Post) and config updates)
 ## Getting Started
 
 ```bash
